@@ -11,16 +11,24 @@ gem 'pg', '>= 0.18', '< 2.0'
 gem 'puma', '~> 4.1'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.7'
+# gem 'omniauth-oktaoauth'
+# gem 'activerecord-session_store'
+# gem 'figaro'
+# gem 'devise'
+# gem 'omniauth-rails_csrf_protection', '~> 0.1'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
-# gem 'bcrypt', '~> 3.1.7'
+gem 'bcrypt', '~> 3.1.7'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
 
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin AJAX possible
-# gem 'rack-cors'
+gem 'rack-cors'
+
+# Trying to use Clearance to do Authentication
+# gem 'clearance'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
