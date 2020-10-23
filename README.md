@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to STYLEHUB, THE app that brings togther Stylists and Clients to create one superhuman, no matter the style!
 
-Things you may want to cover:
+Current Abilities
 
-* Ruby version
+* Full Authentication
 
-* System dependencies
+* Form for Clients to get in touch with Stylists
 
-* Configuration
+Future Updates to Include:
 
-* Database creation
+* Chat feature
 
-* Database initialization
+* Allow users to upload pictures from their computer
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Allow ratings for Stylist from other Clients
