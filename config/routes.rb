@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :stylists
   resources :users do
   collection do
     post '/login', to: 'users#login'
