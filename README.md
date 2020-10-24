@@ -4,6 +4,8 @@ Welcome to STYLEHUB, THE app that brings togther Stylists and Clients to create 
 
 Made with Ruby on Rails
 
+Live Site: https://stylehubb.herokuapp.com
+
 Current Abilities
 
 * Full Authentication
