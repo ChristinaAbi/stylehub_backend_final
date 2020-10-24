@@ -2,6 +2,8 @@
 
 Welcome to STYLEHUB, THE app that brings togther Stylists and Clients to create one superhuman, no matter the style!
 
+Made with Ruby on Rails
+
 Current Abilities
 
 * Full Authentication
